@@ -9,3 +9,5 @@ It is a work in progress, as many snippets are still embedded as static HTML.
 
 Contributing
 We love contributions! See CONTRIBUTING.md for guidelines.
+
+https://github.com/smooth80/gitconnect/blob/3128f5b18dbb8d2cbc7af8f41edca6e25f4744ea/README.md
